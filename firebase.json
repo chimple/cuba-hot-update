@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "public": "build",
+      "site": "cuba-stage-hot-update",
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+    }
+  ]
+}
