@@ -4,6 +4,11 @@
       "public": "public",
       "site": "cuba-stage-hot-update",
       "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+    },
+    {
+      "public": "public",
+      "site": "chimple-prod-hot-update",
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
     }
   ]
 }
